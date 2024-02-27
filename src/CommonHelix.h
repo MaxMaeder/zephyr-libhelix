@@ -5,7 +5,7 @@
 #else
 // remove delay statment if used outside of arduino
 #  include <stdint.h>
-#  define delay(ms)
+//#  define delay(ms)
 #endif
 
 // Not all processors support assert
